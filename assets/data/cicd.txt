@@ -1,0 +1,33 @@
+Github Action
+
+1. Introduction
+    1.1 Introduction to Github workflows and actions
+    1.2 A brief introduction to writing in YAML format
+    1.3 Create our first workflows
+    1.4 Using different Shells for each step
+    1.5 Using a simple action
+    1.6 The Checkout action
+
+2. Environment Variables , Encryption & Context
+    2.1 Environment in Github action
+    2.2 Default and Custom Environment variable
+    2.3 Encrypting Environment Variables
+    2.4 using GITHUB_TOKEN secret for Authentication
+    2.5 Encrypting and Decrypting files
+    2.6 Expression and Contexts
+    2.7 Using function in Expression
+    2.8 If keys and Job status check function
+
+3. Setting Github Workflow files
+    3.1 Setup build file
+    3.2 Setup deploy file
+    3.3 Setup feature/develop/main file
+    3.4 create on trigger condition in feature/develop/main file
+
+4. Setup and connect to AWS Env
+    4.1 Differnet ways to connect to AWS from Github
+    4.2 Secured way to connect to AWS from Github
+    4.3 Create your first Github pipeline to deploy in AWS
+    4.4 Deploy your Cloudformation template from Github to AWS Env
+    4.5 Deploy your CDK application from Github to AWS
+    4.6 Multi account deployment from Github to AWS account
